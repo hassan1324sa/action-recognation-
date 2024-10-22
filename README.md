@@ -60,7 +60,7 @@ def predictOnVideo(path,sequenceLength):
 # Conclusion
 This project demonstrates the use of ConvLSTM and LRCN for video classification tasks, applied to the UCF50 action dataset. You can experiment by training these models with different parameters or adding more action classes for enhanced accuracy.
 
-# How to install this project 
+## How to install this project 
 ```bash
 git  clone hassan1324sa/action-recognation-
 ```
