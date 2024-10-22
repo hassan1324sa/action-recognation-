@@ -59,3 +59,8 @@ def predictOnVideo(path,sequenceLength):
 - Processes a video in real-time, extracts frames, and makes predictions on-the-fly using the trained model.
 # Conclusion
 This project demonstrates the use of ConvLSTM and LRCN for video classification tasks, applied to the UCF50 action dataset. You can experiment by training these models with different parameters or adding more action classes for enhanced accuracy.
+
+# How to install this project 
+```bash
+git clone 
+```
