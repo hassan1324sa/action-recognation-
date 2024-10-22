@@ -62,5 +62,5 @@ This project demonstrates the use of ConvLSTM and LRCN for video classification 
 
 # How to install this project 
 ```bash
-gh repo clone hassan1324sa/action-recognation-
+git  clone hassan1324sa/action-recognation-
 ```
